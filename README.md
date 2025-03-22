@@ -1,5 +1,6 @@
 # 💫 About Me:
 🚀 Passionate about Web Development, Data Science, Open Source, ml projects<br>💡 Always exploring  AI, Cloud Computing, UI/UX.<br>🔧 Currently working on Mern stack projects<br>🌱 Learning Mern ,generative ai and ml<br>📫 Reach me at allenbobby2003@gmail.com<br>⚡ Fun fact: sorry no free time<br><br>
+<br>
 
 
 ## 🌐 Socials:
