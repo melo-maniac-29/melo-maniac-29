@@ -12,7 +12,10 @@ Sorry focusing hard 😁
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=melo-maniac-29&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=melo-maniac-29&icon=6&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=melo-maniac-29&icon=2&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
