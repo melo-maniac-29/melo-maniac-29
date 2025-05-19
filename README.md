@@ -14,6 +14,4 @@ Sorry focusing hard 😁
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=melo-maniac-29&icon=2&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melo-maniac-29&label=Profile%20views&color=0eb474&style=flat" alt="melo-maniac-29" /> </p>
