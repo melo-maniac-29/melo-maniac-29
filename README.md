@@ -7,11 +7,5 @@ Sorry focusing hard 😁
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=melo-maniac-29&theme=catppuccin_latte&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=melo-maniac-29&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melo-maniac-29&label=Profile%20views&color=0eb474&style=flat" alt="melo-maniac-29" /> </p>
