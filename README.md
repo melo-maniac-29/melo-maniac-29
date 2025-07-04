@@ -1,6 +1,7 @@
 # 💫 About Me:
 Sorry focusing hard 😁
 
+<img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=melo-maniac-29&theme=react-dark"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.allen__._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allenbobby) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allenbobby2003@gmail.com) 
