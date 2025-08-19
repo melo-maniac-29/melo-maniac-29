@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sorry focusing hard 😁 
+Sorry focusing hard 😁  
 
 <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=melo-maniac-29&theme=react-dark"/>
 
