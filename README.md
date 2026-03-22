@@ -195,6 +195,30 @@ class AllenBobby:
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melo-maniac-29/melo-maniac-29/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melo-maniac-29/melo-maniac-29/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/melo-maniac-29/melo-maniac-29/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
+</div>
+
+<br/>
+
+---
+
 ## Connect
 
 <div align="center">
