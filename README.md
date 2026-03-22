@@ -7,9 +7,7 @@
 <br/>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&lines=Building+AI+that+works+in+production.;Not+chatbots.+Coworkers.;LangGraph+%C2%B7+ReAct+%C2%B7+RAG+pipelines.;Give+AI+tools+%E2%80%94+it+becomes+a+coworker.;Local-first+AI+that+actually+ships." />
-
 </div>
 
 <br/>
@@ -26,11 +24,11 @@
 
 <br/>
 
----
+<!-- ─────────────────────────────────────────── -->
 
-<table>
-<tr>
-<td width="52%" valign="top">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:3b0764&height=2" />
+
+<br/>
 
 ```python
 class AllenBobby:
@@ -54,22 +52,15 @@ class AllenBobby:
     """
 ```
 
-</td>
-<td width="48%" valign="middle" align="center">
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+<!-- ─────────────────────────────────────────── -->
 
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=Current%20Focus&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
 
 <br/>
 
----
-
-## What I'm Focused On
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70"/><br/>
@@ -96,16 +87,18 @@ class AllenBobby:
 
 <br/>
 
----
+<!-- ─────────────────────────────────────────── -->
 
-## Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=Tech%20Stack&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
+
+<br/>
 
 <div align="center">
 
-**AI / Intelligence**
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nextjs,react,ts,git,githubactions,vscode,linux&theme=dark&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-&nbsp;
+<br/><br/>
+
 <img src="https://img.shields.io/badge/LangChain-0a0a0f?style=for-the-badge&logo=chainlink&logoColor=8b5cf6" />
 <img src="https://img.shields.io/badge/LangGraph-0a0a0f?style=for-the-badge&logo=openai&logoColor=8b5cf6" />
 <img src="https://img.shields.io/badge/OpenAI-0a0a0f?style=for-the-badge&logo=openai&logoColor=8b5cf6" />
@@ -113,44 +106,20 @@ class AllenBobby:
 <img src="https://img.shields.io/badge/ChromaDB-0a0a0f?style=for-the-badge&logoColor=8b5cf6" />
 <img src="https://img.shields.io/badge/HuggingFace-0a0a0f?style=for-the-badge&logo=huggingface&logoColor=f59e0b" />
 
-<br/><br/>
-
-**Backend & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,nginx,linux&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,css&theme=dark" />
-
-<br/><br/>
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel&theme=dark" />
-
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
-</div>
+<!-- ─────────────────────────────────────────── -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=GitHub%20Stats&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
 
 <br/>
 
----
-
-## GitHub Stats
-
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=melo-maniac-29&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&icon_color=6d28d9&text_color=d1d5db&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=melo-maniac-29&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&icon_color=6d28d9&text_color=d1d5db&count_private=true&include_all_commits=true&rank_icon=github" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melo-maniac-29&layout=donut&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=d1d5db&langs_count=6" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melo-maniac-29&layout=donut&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=d1d5db&langs_count=6" />
 </div>
 
 <br/>
@@ -161,41 +130,11 @@ class AllenBobby:
 
 <br/>
 
----
+<!-- ─────────────────────────────────────────── -->
 
-## Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melo-maniac-29&theme=github_dark" width="100%" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=Contribution%20Snake&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
 
 <br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melo-maniac-29&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melo-maniac-29&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melo-maniac-29&theme=github_dark" width="32%" />
-
-</div>
-
-<br/>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melo-maniac-29&theme=github-compact&bg_color=0a0a0f&color=8b5cf6&line=6d28d9&point=f59e0b&area=true&hide_border=true&area_color=3b0764&custom_title=Contribution%20Activity" width="100%" />
-</div>
-
-<br/>
-
----
-
-## Contribution Snake
 
 <div align="center">
   <picture>
@@ -207,9 +146,11 @@ class AllenBobby:
 
 <br/>
 
----
+<!-- ─────────────────────────────────────────── -->
 
-## 3D Contribution Calendar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=3D%20Contribution%20Calendar&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
+
+<br/>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
@@ -217,9 +158,11 @@ class AllenBobby:
 
 <br/>
 
----
+<!-- ─────────────────────────────────────────── -->
 
-## Connect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=Connect&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
+
+<br/>
 
 <div align="center">
 
@@ -235,12 +178,6 @@ class AllenBobby:
   <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
 </div>
 
 <br/>
