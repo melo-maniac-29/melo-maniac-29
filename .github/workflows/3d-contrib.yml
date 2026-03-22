@@ -1,0 +1,38 @@
+name: 🌐 Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    # Runs every day at 1:00 AM UTC
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate 3D Profile
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 🎨 Generate 3D Contribution Calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 10
+          SETTING_JSON: |
+            {
+              "githubUserName": "${{ github.repository_owner }}",
+              "startWeekday": 0,
+              "themeName": "night-rainbow",
+              "backgroundColor1": "#0d0d1a",
+              "backgroundColor2": "#0d0d1a"
+            }
+
+      - name: 📤 Commit 3D Calendar Image
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "profile-3d-contrib"
+          message: "🌐 Update 3D contribution calendar [skip ci]"
