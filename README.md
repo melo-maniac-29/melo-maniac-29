@@ -47,7 +47,7 @@ class AllenBobby:
     ]
 
     belief = """
-        Give software tools → it becomes useful.
+        Give software tools → it becomes useful .
         Give AI tools       → it becomes a coworker.
     """
 ```
