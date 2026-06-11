@@ -1,32 +1,3 @@
-<!-- ─────────────────────────────────────────── -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=Contribution%20Snake&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melo-maniac-29/melo-maniac-29/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melo-maniac-29/melo-maniac-29/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/melo-maniac-29/melo-maniac-29/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────── -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=3D%20Contribution%20Calendar&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
-
-<br/>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────── -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=Connect&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
 
@@ -56,10 +27,3 @@
 
 <br/>
 
-<div align="center">
-  <sub><i>I don't build chatbots. I build coworkers.</i></sub>
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,60:3b0764,100:0a0a0f&height=120&section=footer&animation=twinkling" />
