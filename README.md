@@ -1,9 +1,4 @@
 
-
-<!-- ─────────────────────────────────────────── -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:3b0764&height=60&section=header&text=3D%20Contribution%20Calendar&fontSize=22&fontColor=c4b5fd&animation=fadeIn" />
-
 <br/>
 
 <div align="center">
